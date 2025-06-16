@@ -4,6 +4,7 @@ layout: about
 
 # About Digable Planet.
 Hope all is well, I’m **Seung-jae Lee (SJ Lee)**, aka **DJ Cooky**.
+
 Rather than inventing something entirely new, I focus on reinterpreting existing elements from a fresh perspective, recreating them in the process.
 Through this, I aim to bridge the past, present, and future.
 
