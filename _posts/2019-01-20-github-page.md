@@ -2,13 +2,9 @@
 layout: post
 title:  "Some Rough Stuff"
 info: "First EP Album"
-# tech: "EP Album"
+tech: "EP Album"
 type: DJ Cooky
 ---
-
-## Create github page 
-This is a project for my github blog.  
-I actually created a github page, but the contents are fake.  
 
 
 ## Soundcloud
@@ -19,6 +15,18 @@ I actually created a github page, but the contents are fake.
   <a href="https://soundcloud.com/cookygotsoul/sets/some-rough-stuff" title="Some Rough Stuff" target="_blank" style="color: #cccccc; text-decoration: none;">Some Rough Stuff</a>
 </div>
 
+
+## Credit
+DJ Cooky's First EP Album 'Some Rough Stuff'  
+Thank you all for listening.  
+You can download this album here.  
+cookygotsoul.bandcamp.com/album/some-rough-stuff  
+
+--------
+Album Produced, Composed, Arranged by DJ Cooky  
+Scratched by DJ Cooky  
+Mixed, Mastered by Pe2ny  
+Cover Photographed, Designed by PainBear  
 
 
 <!-- ## Duration
