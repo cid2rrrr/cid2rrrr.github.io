@@ -29,5 +29,5 @@ By separating the identities of the musician and the researcher, I seek to merge
 <br/>
 
 # Interests
-Creating Playing Digging Music...especially Hip-hop, Jazz, and Soul
+Creating Playing Digging Music...especially Hip-hop, Jazz, and Soul  
 Audiovisual Cognitive AI, and HRI
