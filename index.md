@@ -11,7 +11,8 @@ Through this, I aim to bridge the past, present, and future.
 DJ Cooky crafts music through **"alchemy shaped by respect"**,  
 while SJ Lee emphasizes **"joy over performance"** in AI research.
 
-In the realm of music, my goal is to create harmony between people and artificial intelligence, forming a unified whole.  
+In the realm of music, my goal is to create harmony between people and artificial intelligence, forming a unified whole.
+
 By separating the identities of the musician and the researcher, I seek to merge them into one through the creation of **Digable Planet**.
 
 <br/>
