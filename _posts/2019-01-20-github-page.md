@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Some Rough Stuff"
-info: "First EP Album"
+title:  "EP: Some Rough Stuff"
+info: "'s First EP Album"
 tech: "EP Album"
 type: DJ Cooky
 ---
