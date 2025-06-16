@@ -2,25 +2,31 @@
 layout: about 
 ---
 
-# About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+# About Digable Planet.
+Hope all is well, I’m Seungjae Lee, aka DJ Cooky.
+Rather than inventing something entirely new, I focus on reinterpreting existing elements from a fresh perspective, recreating them in the process.
+Through this, I aim to bridge the past, present, and future.
+
+DJ Cooky crafts music through "alchemy shaped by respect"
+while SJ Lee emphasizes "joy over performance" in research.
+
+In the realm of music, my goal is to create harmony between people and artificial intelligence, forming a unified whole.
+By separating the identities of the musician and the researcher, I seek to merge them into one through the creation of Digable Planet.
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* MIIL @ Korea Univ. (2024/03 ~ )
+  * Currently pursuing a Master's degree.
+  * Conducting Research on Audiovisual Cognitive AI.
+* Delight Robotics @ KIST (2022/08 ~ 2023/12)
+  * Worked as an Intern.
+  * Developed Auditory Intelligence (drum transcription) of Humanoid Drum Robot.
+  
+
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+Creating Playing Digging Music...especially Hip-hop, Jazz, and Soul
+Audiovisual Cognitive AI, and HRI

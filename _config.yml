@@ -8,7 +8,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Seung-jae Lee
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: cid2rrrr@icloud.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,24 +17,24 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: cid2rrrr
   google_plus:
-  instagram:
+  instagram: cookygotsoul
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
-  soundcloud:
+  soundcloud: cookygotsoul
   stack_exchange:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
-  youtube:
+  youtube: 
   default_txt: "Follow On"
 
 # Build settings
