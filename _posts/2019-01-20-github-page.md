@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Some Rough Stuff"
-info: "Create my github blog."
-tech: "EP Album"
+info: "First EP Album"
+# tech: "EP Album"
 type: DJ Cooky
 ---
 
