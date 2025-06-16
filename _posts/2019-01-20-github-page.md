@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Create github page"
+title:  "Some Rough Stuff"
 info: "Create my github blog."
-tech: "ruby, jekyll"
-type: B Company
+tech: "EP Album"
+type: DJ Cooky
 ---
 
 ## Create github page 
