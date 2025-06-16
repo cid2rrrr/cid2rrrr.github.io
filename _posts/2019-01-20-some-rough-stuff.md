@@ -17,12 +17,7 @@ type: DJ Cooky
 
 
 ## Credit
-DJ Cooky's First EP Album 'Some Rough Stuff'  
-Thank you all for listening.  
-You can download this album here.  
-cookygotsoul.bandcamp.com/album/some-rough-stuff  
 
---------
 Album Produced, Composed, Arranged by DJ Cooky  
 Scratched by DJ Cooky  
 Mixed, Mastered by Pe2ny  
