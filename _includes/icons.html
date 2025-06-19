@@ -1,4 +1,4 @@
-{% if site.social.email %}
+<!-- {% if site.social.email %}
 <li>
   <a href="mailto:{{ site.author.email }}" title="email">
     <span class="fa-stack fa-lg">
@@ -7,6 +7,28 @@
     </span>
   </a>
 </li>
+{% endif %} -->
+
+{% if site.social.email %}
+<li>
+  <a id="email-link" href="#" title="email">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+
+<script>
+  // 이메일 주소를 JavaScript로 조립
+  const aa = "{{ site.author.email | split: '@' | first }}";
+  const aaa = "{{ site.author.email | split: '@' | last }}";
+  const aaaa = aa + "@" + aaa;
+
+  // 메일 링크에 이메일 적용
+  const link = document.getElementById("email-link");
+  link.href = "mailto:" + aaaa;
+</script>
 {% endif %}
 
 {% if site.social.behance %}
