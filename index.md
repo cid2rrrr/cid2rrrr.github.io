@@ -37,7 +37,7 @@ By separating the identities of the musician and the researcher, I seek to merge
 * Linear Algebra, Korea Univ. (2024 Spring)
 
 # Discography
-* **DJ Cooky**'s EP - \[Some Rough Stuff\]
+* **DJ Cooky**'s EP - Some Rough Stuff
   * **All songs Produced** by DJ Cooky
 * **Soze Scallywag**'s Single - Yello Tequilla
   * **Scratched** by DJ Cooky
