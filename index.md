@@ -17,13 +17,28 @@ By separating the identities of the musician and the researcher, I seek to merge
 
 <br/>
 
-# Career
-* **MIIL** @ Korea Univ. (2024/03 ~ )
-  * Currently pursuing a Master's degree.
+# Publications
+* [Bridging Audio and Vision: Zero-Shot Audiovisual Segmentation by Connecting Pretrained Models](https://arxiv.org/pdf/2506.06537)
+  * **Seung-jae Lee**, Paul Hongsuck Seo. Interspeech 2025.
+
+# Education
+* **M.S.** in Computer Science and Engineering (2024/03 ~ )
+  * Korea Univ., Seoul, South Korea
   * Conducting Research on Audiovisual Cognitive AI.
+* **B.S.** in COmputer Software (2015/03 ~ 2023/08)
+  * MIIL @ Kwangwoon Univ., Seoul, South Korea
+
+# Career
 * **Delight Robotics** @ KIST (2022/08 ~ 2023/12)
-  * Worked as an Intern.
+  * Worked as an Intern Researcher.
   * Developed Auditory Intelligence (drum transcription) of Humanoid Drum Robot.
+
+# Teaching
+* Linear Algebra, Korea Univ. (2024 Spring)
+
+# Discography
+
+
   
 
 
